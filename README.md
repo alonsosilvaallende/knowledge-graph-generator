@@ -9,4 +9,5 @@ Pure Python app:
 * Deployed in [Ploomber](https://ploomber.io/)
 * [Deployed app](https://knowledgegraph.ploomberapp.io/)
 
-<img width="878" alt="image" src="https://github.com/alonsosilvaallende/knowledge-graph-generator/assets/30263736/4ecb78b6-6e89-4d2f-a418-b05f3f3bc022">
+https://github.com/alonsosilvaallende/knowledge-graph-generator/assets/30263736/59f8011e-ad7c-42f8-9e21-09a512e31191
+

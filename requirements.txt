@@ -1,0 +1,5 @@
+solara==1.31.0
+openai==1.17.0
+instructor==1.1.0
+graphviz==0.20.3
+langsmith==0.1.47
